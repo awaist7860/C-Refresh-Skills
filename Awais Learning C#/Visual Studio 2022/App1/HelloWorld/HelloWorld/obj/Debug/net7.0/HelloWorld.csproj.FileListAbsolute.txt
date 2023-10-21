@@ -1,0 +1,15 @@
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+C:\Users\awais\OneDrive\Desktop\All Desktop Files\Documents\Awais Learning C#\Visual Studio 2022\App1\HelloWorld\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
