@@ -1,0 +1,15 @@
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/bin/Debug/net8.0/ClassesAndObjects
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/bin/Debug/net8.0/ClassesAndObjects.deps.json
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/bin/Debug/net8.0/ClassesAndObjects.runtimeconfig.json
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/bin/Debug/net8.0/ClassesAndObjects.dll
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/bin/Debug/net8.0/ClassesAndObjects.pdb
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/obj/Debug/net8.0/ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/obj/Debug/net8.0/ClassesAndObjects.AssemblyInfoInputs.cache
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/obj/Debug/net8.0/ClassesAndObjects.AssemblyInfo.cs
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/obj/Debug/net8.0/ClassesAndObjects.csproj.CoreCompileInputs.cache
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/obj/Debug/net8.0/ClassesAndObjects.sourcelink.json
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/obj/Debug/net8.0/ClassesAndObjects.dll
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/obj/Debug/net8.0/refint/ClassesAndObjects.dll
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/obj/Debug/net8.0/ClassesAndObjects.pdb
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/obj/Debug/net8.0/ClassesAndObjects.genruntimeconfig.cache
+/Users/awaistasleem/Documents/GitHub/C-Refresh-Skills/Awais Learning C#/ClassesAndObjects/obj/Debug/net8.0/ref/ClassesAndObjects.dll
